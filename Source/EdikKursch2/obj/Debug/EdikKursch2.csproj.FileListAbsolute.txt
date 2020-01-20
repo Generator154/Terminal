@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.Form1.resources
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.Properties.Resources.resources
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Debug\EdikKursch2.exe.config
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Debug\EdikKursch2.exe
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Debug\EdikKursch2.pdb
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.exe
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Debug\EdikKursch2.pdb

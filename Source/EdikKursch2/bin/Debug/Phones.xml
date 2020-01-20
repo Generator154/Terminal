@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Records>
+  <Record>
+    <Surname>Петренко</Surname>
+    <Number>+380506571133</Number>
+    <Balance>163.46</Balance>
+  </Record>
+  <Record>
+    <Surname>Васильев</Surname>
+    <Number>+380504215431</Number>
+    <Balance>125.45</Balance>
+  </Record>
+  <Record>
+    <Surname>Зубов</Surname>
+    <Number>+380672353451</Number>
+    <Balance>212.98</Balance>
+  </Record>
+  <Record>
+    <Surname>Колбов</Surname>
+    <Number>+380679983654</Number>
+    <Balance>54.56</Balance>
+  </Record>
+  <Record>
+    <Surname>Тарасов</Surname>
+    <Number>+380501133989</Number>
+    <Balance>25.35</Balance>
+  </Record>
+</Records>

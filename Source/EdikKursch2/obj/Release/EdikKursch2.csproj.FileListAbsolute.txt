@@ -1,0 +1,12 @@
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Release\EdikKursch2.exe.config
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Release\EdikKursch2.exe
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Release\EdikKursch2.pdb
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.Form1.resources
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.Properties.Resources.resources
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.exe
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.pdb
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Release\EdikKursch2.exe.CodeAnalysisLog.xml
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\bin\Release\EdikKursch2.exe.lastcodeanalysissucceeded
+D:\Microsoft Visual Studio\repos\EdikKursch2\EdikKursch2\obj\Release\EdikKursch2.csprojAssemblyReference.cache
